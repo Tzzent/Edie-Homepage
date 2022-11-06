@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://ediehomepage-8b855.web.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Tzzent/Edie-Homepage">
       Solution
     </a>
     <span> | </span>
@@ -36,8 +36,16 @@
 <!-- OVERVIEW -->
 
 ## Overview
+<br>
+🖥️ Desktop<br>
+![Screenshot 2022-11-06 at 11-20-35 Edie Homepage](https://user-images.githubusercontent.com/86677547/200189582-037310fb-77c2-4fbc-a1eb-d0bcf61f8e1e.png)
+<br>
+<br>
+📱<br>
+![Screenshot 2022-11-06 at 13-12-25 Edie Homepage](https://user-images.githubusercontent.com/86677547/200189591-4a8e94b5-f6c4-4693-a6ea-95871725f324.png)
+<br>
+![Screenshot 2022-11-06 at 13-13-53 Edie Homepage](https://user-images.githubusercontent.com/86677547/200189593-f6a5b18e-6cce-42a6-8464-b6132c6e0444.png)
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
