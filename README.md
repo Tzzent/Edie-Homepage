@@ -47,13 +47,8 @@
 ![Screenshot 2022-11-06 at 13-13-53 Edie Homepage](https://user-images.githubusercontent.com/86677547/200189593-f6a5b18e-6cce-42a6-8464-b6132c6e0444.png)
 
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
+<br>
+<br>
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
