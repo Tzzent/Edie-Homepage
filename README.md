@@ -38,10 +38,12 @@
 ## Overview
 <br>
 🖥️ Desktop<br>
+
 ![Screenshot 2022-11-06 at 11-20-35 Edie Homepage](https://user-images.githubusercontent.com/86677547/200189582-037310fb-77c2-4fbc-a1eb-d0bcf61f8e1e.png)
 <br>
 <br>
 📱 Mobile<br>
+
 ![Screenshot 2022-11-06 at 13-12-25 Edie Homepage](https://user-images.githubusercontent.com/86677547/200189591-4a8e94b5-f6c4-4693-a6ea-95871725f324.png)
 <br>
 ![Screenshot 2022-11-06 at 13-13-53 Edie Homepage](https://user-images.githubusercontent.com/86677547/200189593-f6a5b18e-6cce-42a6-8464-b6132c6e0444.png)
